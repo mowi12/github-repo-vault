@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a41815b8079379f",
+        "id": "ba63303a52465899",
         "type": "tabs",
         "children": [
           {
-            "id": "cc4e4383999cd5a2",
+            "id": "d8d72617aa636159",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Github Repo Collection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -27,7 +32,7 @@
       {
         "id": "c6f44f03b4a95e50",
         "type": "tabs",
-        "dimension": 75.30864197530865,
+        "dimension": 70.62857142857143,
         "children": [
           {
             "id": "118f95cfed491eda",
@@ -59,7 +64,7 @@
       {
         "id": "f741d9317c35b704",
         "type": "tabs",
-        "dimension": 24.691358024691358,
+        "dimension": 29.37142857142857,
         "children": [
           {
             "id": "14f1e759a6073280",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Github Repo Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Github Repo Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Github Repo Collection.md"
+              }
             }
           }
         ]
@@ -170,8 +179,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cc4e4383999cd5a2",
+  "active": "d8d72617aa636159",
   "lastOpenFiles": [
+    "Github Repo Collection.md",
+    "Attachments",
+    "Templates/Repo Template.md",
+    "Templates",
     "README.md",
     "Github Repo Collection/Repos/Z/zip.js.md",
     "Github Repo Collection/Repos/Z/Zilla.md",
@@ -196,8 +209,6 @@
     "Github Repo Collection/Repos/W/Watcher.md",
     "Github Repo Collection/Repos/W/Wasp.md",
     "Github Repo Collection/Repos/W/WakaQ.md",
-    "Github Repo Collection/Repos/W/W2UI.md",
-    "Github Repo Collection/Repos/V/vlite.md",
     "Github Repo Collection/Repos/Z",
     "Github Repo Collection/Repos/Y",
     "Github Repo Collection/Repos/X",
@@ -206,8 +217,6 @@
     "Github Repo Collection/Repos/U",
     "Github Repo Collection/Repos/T",
     "Github Repo Collection/Repos/S",
-    "Github Repo Collection/Repos/R",
-    "Github Repo Collection/Repos/Q",
     "Attachments/Physik/Praktikum Vortrag/Mikroskop.png",
     "Attachments/Physik/Praktikum Vortrag/Lupe.png",
     "Attachments/Physik/Praktikum Vortrag/Konkarve Linse.png",

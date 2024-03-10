@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGithub",
       "TiPresentation",
       "SiBookmeter",
       "FasListCheck",
-      "TiPhoto",
-      "TiTemplate"
+      "TiPhoto"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,5 +77,5 @@
   "Personal/Medi-Website.md": "IbMedical",
   "Personal/Habits/Tracker.md": "SiBookmeter",
   "Uni/Module/Physik/Physik Praktikum Vortrag.md": "TiPresentation",
-  "Github Repo Collection.md": "LiLibrary"
+  "Github Repo Collection.md": "SiGithub"
 }
