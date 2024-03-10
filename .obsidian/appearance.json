@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff7580",
+  "cssTheme": "Tokyo Night",
+  "theme": "system",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Fira Code"
+}

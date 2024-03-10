@@ -1,0 +1,96 @@
+{
+  "presetFields": [
+    {
+      "name": "module_name",
+      "options": {
+        "template": ""
+      },
+      "id": "1",
+      "type": "Input"
+    },
+    {
+      "name": "area_name",
+      "options": {},
+      "id": "2",
+      "type": "Input"
+    },
+    {
+      "name": "lp",
+      "options": {
+        "step": "1",
+        "min": "",
+        "max": ""
+      },
+      "id": "3",
+      "type": "Number"
+    },
+    {
+      "name": "grade",
+      "options": {
+        "step": "",
+        "min": "0",
+        "max": "4.0"
+      },
+      "id": "4",
+      "type": "Number"
+    },
+    {
+      "name": "graded",
+      "options": {},
+      "id": "5",
+      "type": "Boolean"
+    },
+    {
+      "name": "daily_note_version",
+      "options": {},
+      "id": "6",
+      "type": "Number"
+    },
+    {
+      "name": "language",
+      "options": {
+        "valuesList": {
+          "1": "\"Deutsch\"",
+          "2": "\"Englisch\""
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "7",
+      "type": "Select"
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.0",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true,
+  "buttonIcon": "clipboard-list"
+}

@@ -1,0 +1,542 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1706464088970,
+      "path": "Personal/Habits/Tracker.md",
+      "title": "Tracker"
+    },
+    {
+      "type": "file",
+      "ctime": 1690736820888,
+      "path": "Uni/Modul-Overview.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695040787241,
+      "path": "Uni/Module/Bachlorarbeit/Bachelorarbeit.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1697713079024,
+      "path": "Uni/Module/Physik/Praktikum Physik.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1697120016414,
+      "path": "Github Repo Collection.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695247630528,
+      "path": "Personal/Tracker.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698244185633,
+      "path": "Personal/Medi-Website.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1701267826764,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1701268058506,
+          "items": [],
+          "title": "Personal"
+        },
+        {
+          "type": "group",
+          "ctime": 1701267893989,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1701268179708,
+              "path": "Uni/Modul-Overview.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1701267954108,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1701267954108,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1701267979677,
+                      "path": "Uni/Module/Bachlorarbeit/Bachelorarbeit.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701267979677,
+                      "path": "Uni/Module/Bachlorarbeit/Efficiency through Automation - Creating Threat Models automatically for Thing Threat Modeler.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701267979677,
+                      "path": "Uni/Module/Bachlorarbeit/TODO List.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1702888716479,
+                      "path": "Uni/Module/Bachlorarbeit/General/Notes.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Bachlorarbeit"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1701268414886,
+                      "path": "Uni/Module/Physik/Physik I.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268414886,
+                      "path": "Uni/Module/Physik/Physik II.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268414886,
+                      "path": "Uni/Module/Physik/Praktikum Physik.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1709536700039,
+                      "path": "Uni/Module/Physik/Physik Praktikum Vortrag.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268414886,
+                      "path": "Uni/Module/Physik/SI-Präfixe.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "01 - Bewegung"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "02 - Kraft und Bewegung"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "03 - Kinetische Energie und Arbeit"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "04 - Potenzielle Energie und Energieerhaltung"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "05 - Systeme von Teilchen"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "06 - Rotation ausgedehnter Körper"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "07 - Rollbewegung und Drehimpuls"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "08 - Gleichgewicht und Elastizität"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "09 - Gravitation"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "10 - Fluide"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "11 - Schwingungen"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "12 - Wellen I"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "13 - Wellen II"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "14 - Temperatur"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "15 - Kinetische Gastheorie"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "16 - Entropie"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268414885,
+                      "items": [],
+                      "title": "Versuche"
+                    }
+                  ],
+                  "title": "Physik"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "ADM"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Algo"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Ana1"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Ana2a"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "AST"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "BuK"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1701268494492,
+                      "path": "Uni/Module/EidI/Einführung in die Informatik.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268494492,
+                      "path": "Uni/Module/EidI/Graph.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268494492,
+                      "path": "Uni/Module/EidI/Menge.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "EidI"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "FG"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "GdBs"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "GdRa"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "GRN"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "InfoSys"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Sicherheit in IT-Systemen.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Anonymity.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Basic Principles of Data Protection Laws.canvas",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Data Protection.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Identification.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Kerberos.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Personal Data.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Privacy.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268505060,
+                      "path": "Uni/Module/ITSec/Pseudonymity.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "ITSec"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Japanisch"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Kombi"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "LA"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "LaTeX"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Logik"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "PdP"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "Proseminar"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1701268519532,
+                      "path": "Uni/Module/PvS/Programmieren von Systemen.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268519532,
+                      "items": [],
+                      "title": "Architektur & Entwurfsmuster"
+                    }
+                  ],
+                  "title": "PvS"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1701268526020,
+                      "path": "Uni/Module/Seminar/Seminar.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268526020,
+                      "items": [],
+                      "title": "Kapitel"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1701268526020,
+                      "items": [],
+                      "title": "Paper"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1701268526020,
+                      "path": "Uni/Module/Seminar/Presentation.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Seminar"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "SoPra"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1701268219436,
+                  "items": [],
+                  "title": "SWT"
+                }
+              ],
+              "title": "Module"
+            }
+          ],
+          "title": "Uni"
+        },
+        {
+          "type": "file",
+          "ctime": 1701268058506,
+          "path": "Dictionary.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1701268058506,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1701357656304,
+              "items": [],
+              "title": "Repos"
+            }
+          ],
+          "title": "Github Repo Collection"
+        },
+        {
+          "type": "group",
+          "ctime": 1701268058506,
+          "items": [],
+          "title": "Geocaching Notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1701268058506,
+          "items": [],
+          "title": "Sport"
+        },
+        {
+          "type": "group",
+          "ctime": 1701268058506,
+          "items": [],
+          "title": "Templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1701268058506,
+          "items": [],
+          "title": "Attachments"
+        }
+      ],
+      "title": "Sortspec"
+    }
+  ]
+}

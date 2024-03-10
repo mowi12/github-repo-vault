@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "rightToLeft": false,
+  "vimMode": false,
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "e04468f9fb51deeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8424900fc6c473b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d66ca5880694b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Nachhilfe/Cali/Physik.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b3da3b1807fd3b67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a78f546018d686f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aef169d76ef79700",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b2f530f52e3f819c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8929b223619b62e0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "206289d8a271a4cf",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "8d98cbd1f24f8602",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "ced5101c6aab05fc",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dbe4d92bbd1062c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2077b9c7252742c2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal/Nachhilfe/Cali/Physik.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "75385326f58dcffb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal/Nachhilfe/Cali/Physik.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "896cd51690ad4624",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal/Nachhilfe/Cali/Physik.md"
+          }
+        }
+      },
+      {
+        "id": "dfe7ec8b7a3c2d77",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "54d66ca5880694b7",
+  "lastOpenFiles": [
+    "Personal/Daily Notes/2024/02-February/2024-02-02.md",
+    "Personal/Daily Notes/2024/02-February/2024-02-01.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-31.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-30.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-29.md",
+    "Personal/Habits/Tracker.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-28.md",
+    "Uni/Module/Bachlorarbeit/Research/Threat Modeling.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-16.md",
+    "Uni/Module/Bachlorarbeit/Bachelorarbeit.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-15.md",
+    "Geocaching Notes/Solved/Hash mich - Nerd Edition.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-08.md",
+    "Geocaching Notes/Solved/17. Türle 2017 - Wissen macht satt.md",
+    "Personal/Daily Notes/2024/01-January/2024-01-02.md",
+    "Attachments/Physik/Physik_Wellen_03.png",
+    "Attachments/Bachelor/Azure/350px-Attack_tree_virus.png",
+    "Personal/Daily Notes/2023/11-November/2023-11-27.md",
+    "Personal/Daily Notes/2023/11-November/2023-11-19.md",
+    "Personal/Daily Notes/2023/11-November/2023-11-04.md",
+    "Geocaching Notes/Unsolved/Ulmer Weihnachtsmark.md",
+    "Personal/Daily Notes/2023/10-October/2023-10-29.md",
+    "Personal/Daily Notes/2023/10-October/2023-10-28.md",
+    "Personal/Daily Notes/2023/10-October/2023-10-25.md",
+    "Personal/Daily Notes/2023/10-October/2023-10-19.md",
+    "Impuls.md",
+    "Uni/Module/Physik/Systeme von Teilchen/Impulserhaltung.md",
+    "Personal/Daily Notes/2023/10-October/2023-10-15.md",
+    "Uni/Module/ITSec/Basic Principles of Data Protection Laws.canvas",
+    "Untitled"
+  ]
+}
