@@ -46,7 +46,7 @@ let pages = dv.pages('#repo and -"Templates"')
 		return true // comment out to filter
 		
 		for (const tag of p.tags) {
-			if (tag.toLowerCase() === "gui") {
+			if (tag.toLowerCase() === "map") {
 				return true
 			}
 		}
