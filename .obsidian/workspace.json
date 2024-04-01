@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "460949971de918f1",
+        "id": "7fe50b9ebf5c531e",
         "type": "tabs",
         "children": [
           {
-            "id": "195f2bbb16b41e30",
+            "id": "d205883fa62f17e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "195f2bbb16b41e30",
+  "active": "d205883fa62f17e0",
   "lastOpenFiles": [
+    "Repos/O/Openreads.md",
     "Repos/T/tqdm.md",
     "Repos/A/alive-progress.md",
     "Repos/G/GC Wizard.md",
@@ -198,7 +199,6 @@
     "Repos/F/Flyde.md",
     "Repos/R/react-barcode.md",
     "Repos/E/Ente.md",
-    "Repos/D/daytona.md",
     "2024/03-March",
     "2024",
     "Attachments",
