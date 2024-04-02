@@ -25,7 +25,8 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true
   },
   "Personal/Sophie/Geschenke.md": "LiGift",
   "Personal/Sophie/Filmliste.md": "LiVideo",
