@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28b27db47240307c",
+        "id": "635cde1bed160f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "13d2512f042c56da",
+            "id": "6f025b76434557b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "13d2512f042c56da",
+  "active": "6f025b76434557b1",
   "lastOpenFiles": [
+    "Repos/F/fx.md",
     "Repos/S/Shiki.md",
     "Repos/O/Openreads.md",
     "Repos/T/tqdm.md",
@@ -198,7 +199,6 @@
     "Github Repo Collection.md",
     "Repos/H/hatchet.md",
     "Repos/F/Flyde.md",
-    "Repos/R/react-barcode.md",
     "2024/03-March",
     "2024",
     "Attachments",
