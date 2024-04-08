@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "635cde1bed160f8d",
+        "id": "0bcaaf42d44f4d06",
         "type": "tabs",
         "children": [
           {
-            "id": "6f025b76434557b1",
+            "id": "4577f5381963852f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6f025b76434557b1",
+  "active": "4577f5381963852f",
   "lastOpenFiles": [
+    "Repos/B/bat.md",
+    "Repos/F/fzf.md",
+    "Repos/L/lazy.nvim.md",
+    "Repos/U/Undotree.md",
+    "Repos/F/Fugitive.md",
+    "Repos/N/NERD Commenter.md",
+    "Repos/R/Rose Pine.md",
+    "Repos/L/Lualine.md",
+    "Repos/L/LSP Zero.md",
     "Repos/F/fx.md",
     "Repos/S/Shiki.md",
     "Repos/O/Openreads.md",
@@ -189,16 +198,7 @@
     "Repos/M/monolith.md",
     "Repos/B/bincapz.md",
     "Repos/C/capo.js.md",
-    "Repos/J/jnv.md",
-    "Repos/D/DNS Tunnel Keylogger.md",
-    "Repos/F/FindMyFlipper.md",
-    "Repos/0/403JUMP.md",
-    "Repos/H/haiti.md",
     "Repos/0",
-    "Repos/B/bebop.md",
-    "Github Repo Collection.md",
-    "Repos/H/hatchet.md",
-    "Repos/F/Flyde.md",
     "2024/03-March",
     "2024",
     "Attachments",
