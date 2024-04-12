@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0bcaaf42d44f4d06",
+        "id": "b09ff35151001261",
         "type": "tabs",
         "children": [
           {
-            "id": "4577f5381963852f",
+            "id": "2d12a4b5bc456356",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4577f5381963852f",
+  "active": "2d12a4b5bc456356",
   "lastOpenFiles": [
+    "Repos/Z/zoxide.md",
+    "Repos/C/cgeo.md",
     "Repos/B/bat.md",
     "Repos/F/fzf.md",
     "Repos/L/lazy.nvim.md",
@@ -196,8 +198,6 @@
     "Repos/J/Jampack.md",
     "Repos/A/Alacritty.md",
     "Repos/M/monolith.md",
-    "Repos/B/bincapz.md",
-    "Repos/C/capo.js.md",
     "Repos/0",
     "2024/03-March",
     "2024",
