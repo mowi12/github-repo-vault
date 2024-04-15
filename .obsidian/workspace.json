@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b09ff35151001261",
+        "id": "c3b9a8667b308c30",
         "type": "tabs",
         "children": [
           {
-            "id": "2d12a4b5bc456356",
+            "id": "2fd9a1784a19aea6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2d12a4b5bc456356",
+  "active": "2fd9a1784a19aea6",
   "lastOpenFiles": [
+    "Repos/Z/zx.md",
+    "Repos/D/drawDB.md",
+    "Repos/C/C2 Tracker.md",
+    "Repos/T/Tmux SessionX.md",
+    "Repos/C/Catppuccin for Tmux.md",
+    "Repos/T/Tmux sensible.md",
+    "Repos/T/tmux plugins.md",
+    "Repos/T/Tmux Plugin Manager.md",
     "Repos/Z/zoxide.md",
     "Repos/C/cgeo.md",
     "Repos/B/bat.md",
@@ -190,14 +198,6 @@
     "Repos/A/alive-progress.md",
     "Repos/G/GC Wizard.md",
     "Repos/A/Arsenal.md",
-    "Repos/F/FBI-tools.md",
-    "Repos/C/codel.md",
-    "Repos/C/Continue.md",
-    "Repos/T/threatcl.md",
-    "Repos/P/phin.md",
-    "Repos/J/Jampack.md",
-    "Repos/A/Alacritty.md",
-    "Repos/M/monolith.md",
     "Repos/0",
     "2024/03-March",
     "2024",
