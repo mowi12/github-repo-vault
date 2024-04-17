@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e1f4dafd9f97384",
+        "id": "71a3ae4027b7fd74",
         "type": "tabs",
         "children": [
           {
-            "id": "a01b4880df8a84e2",
+            "id": "a645d332aa893180",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a01b4880df8a84e2",
+  "active": "a645d332aa893180",
   "lastOpenFiles": [
+    "Repos/P/pylyzer.md",
+    "Repos/H/hauditor.md",
     "Repos/C/cloc.md",
     "Repos/Z/zx.md",
     "Repos/D/drawDB.md",
@@ -196,8 +198,6 @@
     "Repos/S/Shiki.md",
     "Repos/O/Openreads.md",
     "Repos/T/tqdm.md",
-    "Repos/A/alive-progress.md",
-    "Repos/G/GC Wizard.md",
     "Repos/0",
     "2024/03-March",
     "2024",
