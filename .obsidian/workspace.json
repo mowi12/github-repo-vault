@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71a3ae4027b7fd74",
+        "id": "a3f962954f617f55",
         "type": "tabs",
         "children": [
           {
-            "id": "a645d332aa893180",
+            "id": "3488c15484a34f4b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 200
   },
   "right": {
     "id": "d517fc36357e8920",
@@ -170,8 +170,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a645d332aa893180",
+  "active": "3488c15484a34f4b",
   "lastOpenFiles": [
+    "Repos/C/CVENotifier.md",
+    "Repos/A/awesome-secure-defaults.md",
+    "Repos/O/One-Liners.md",
     "Repos/P/pylyzer.md",
     "Repos/H/hauditor.md",
     "Repos/C/cloc.md",
@@ -195,9 +198,6 @@
     "Repos/L/Lualine.md",
     "Repos/L/LSP Zero.md",
     "Repos/F/fx.md",
-    "Repos/S/Shiki.md",
-    "Repos/O/Openreads.md",
-    "Repos/T/tqdm.md",
     "Repos/0",
     "2024/03-March",
     "2024",
