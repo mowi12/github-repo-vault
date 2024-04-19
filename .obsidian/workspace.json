@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3f962954f617f55",
+        "id": "777375e6e210cf84",
         "type": "tabs",
         "children": [
           {
-            "id": "3488c15484a34f4b",
+            "id": "1b0cf4eb7ed89eca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3488c15484a34f4b",
+  "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/P/Prism-Theme.md",
     "Repos/C/CVENotifier.md",
     "Repos/A/awesome-secure-defaults.md",
     "Repos/O/One-Liners.md",
@@ -197,7 +198,6 @@
     "Repos/R/Rose Pine.md",
     "Repos/L/Lualine.md",
     "Repos/L/LSP Zero.md",
-    "Repos/F/fx.md",
     "Repos/0",
     "2024/03-March",
     "2024",
