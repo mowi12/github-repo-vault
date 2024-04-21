@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "777375e6e210cf84",
+        "id": "319a13b5e157b9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0cf4eb7ed89eca",
+            "id": "5e2047665a015aa7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,6 +172,8 @@
   },
   "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/A/Awesome Low-Level Design.md",
+    "Repos/D/DNSViz.md",
     "Repos/P/Prism-Theme.md",
     "Repos/C/CVENotifier.md",
     "Repos/A/awesome-secure-defaults.md",
@@ -196,8 +198,6 @@
     "Repos/F/Fugitive.md",
     "Repos/N/NERD Commenter.md",
     "Repos/R/Rose Pine.md",
-    "Repos/L/Lualine.md",
-    "Repos/L/LSP Zero.md",
     "Repos/0",
     "2024/03-March",
     "2024",
