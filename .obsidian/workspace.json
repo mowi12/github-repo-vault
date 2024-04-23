@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "319a13b5e157b9b3",
+        "id": "c794e293120409f7",
         "type": "tabs",
         "children": [
           {
-            "id": "5e2047665a015aa7",
+            "id": "ef5f4586f39c9f6f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "118f95cfed491eda",
+  "active": "ef5f4586f39c9f6f",
   "lastOpenFiles": [
+    "Repos/Z/zellij.md",
+    "Github Repo Collection.md",
     "Repos/A/Awesome Low-Level Design.md",
     "Repos/D/DNSViz.md",
     "Repos/P/Prism-Theme.md",
@@ -196,8 +198,6 @@
     "Repos/L/lazy.nvim.md",
     "Repos/U/Undotree.md",
     "Repos/F/Fugitive.md",
-    "Repos/N/NERD Commenter.md",
-    "Repos/R/Rose Pine.md",
     "Repos/0",
     "2024/03-March",
     "2024",
