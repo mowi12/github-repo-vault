@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c794e293120409f7",
+        "id": "a63fb0ce5de149fd",
         "type": "tabs",
         "children": [
           {
-            "id": "ef5f4586f39c9f6f",
+            "id": "a2b91e710dd8587d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ef5f4586f39c9f6f",
+  "active": "a2b91e710dd8587d",
   "lastOpenFiles": [
+    "Repos/L/LES.md",
+    "Repos/A/Airbnb JavaScript Style Guide.md",
     "Repos/Z/zellij.md",
     "Github Repo Collection.md",
     "Repos/A/Awesome Low-Level Design.md",
@@ -196,8 +198,6 @@
     "Repos/B/bat.md",
     "Repos/F/fzf.md",
     "Repos/L/lazy.nvim.md",
-    "Repos/U/Undotree.md",
-    "Repos/F/Fugitive.md",
     "Repos/0",
     "2024/03-March",
     "2024",
