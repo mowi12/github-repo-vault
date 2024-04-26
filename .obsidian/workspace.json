@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a63fb0ce5de149fd",
+        "id": "d589a309f64544dd",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b91e710dd8587d",
+            "id": "5c17777444cb8aea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a2b91e710dd8587d",
+  "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/P/Pragmatic Drag & Drop.md",
     "Repos/L/LES.md",
     "Repos/A/Airbnb JavaScript Style Guide.md",
     "Repos/Z/zellij.md",
@@ -197,7 +198,6 @@
     "Repos/C/cgeo.md",
     "Repos/B/bat.md",
     "Repos/F/fzf.md",
-    "Repos/L/lazy.nvim.md",
     "Repos/0",
     "2024/03-March",
     "2024",
