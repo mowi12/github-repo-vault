@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d589a309f64544dd",
+        "id": "691b36e7e16dcfa1",
         "type": "tabs",
         "children": [
           {
-            "id": "5c17777444cb8aea",
+            "id": "3f5fa97d7e17e9f4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "118f95cfed491eda",
+  "active": "3f5fa97d7e17e9f4",
   "lastOpenFiles": [
+    "Repos/C/Canvas Confetti.md",
     "Repos/P/Pragmatic Drag & Drop.md",
     "Repos/L/LES.md",
     "Repos/A/Airbnb JavaScript Style Guide.md",
@@ -197,7 +198,6 @@
     "Repos/Z/zoxide.md",
     "Repos/C/cgeo.md",
     "Repos/B/bat.md",
-    "Repos/F/fzf.md",
     "Repos/0",
     "2024/03-March",
     "2024",
