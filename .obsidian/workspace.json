@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "691b36e7e16dcfa1",
+        "id": "d137d64ff51035fe",
         "type": "tabs",
         "children": [
           {
-            "id": "3f5fa97d7e17e9f4",
+            "id": "c5343e91cbb92f0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3f5fa97d7e17e9f4",
+  "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/E/Extension.js.md",
+    "Repos/N/Netprobe Lite.md",
     "Repos/C/Canvas Confetti.md",
     "Repos/P/Pragmatic Drag & Drop.md",
     "Repos/L/LES.md",
@@ -196,8 +198,6 @@
     "Repos/T/tmux plugins.md",
     "Repos/T/Tmux Plugin Manager.md",
     "Repos/Z/zoxide.md",
-    "Repos/C/cgeo.md",
-    "Repos/B/bat.md",
     "Repos/0",
     "2024/03-March",
     "2024",
