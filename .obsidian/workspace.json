@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d137d64ff51035fe",
+        "id": "ebc12f97a72f1afb",
         "type": "tabs",
         "children": [
           {
-            "id": "c5343e91cbb92f0e",
+            "id": "e1071bd19c430fd9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "118f95cfed491eda",
+  "active": "e1071bd19c430fd9",
   "lastOpenFiles": [
+    "Repos/T/tinyworldmap.md",
+    "Repos/C/cmdk.md",
+    "Repos/R/rx.md",
+    "Repos/M/MasterParser.md",
+    "Repos/T/text-box-trim-examples.md",
+    "Repos/B/Baileys.md",
+    "Repos/S/Stirling-PDF.md",
     "Repos/E/Extension.js.md",
     "Repos/N/Netprobe Lite.md",
     "Repos/C/Canvas Confetti.md",
@@ -191,13 +198,6 @@
     "Repos/C/cloc.md",
     "Repos/Z/zx.md",
     "Repos/D/drawDB.md",
-    "Repos/C/C2 Tracker.md",
-    "Repos/T/Tmux SessionX.md",
-    "Repos/C/Catppuccin for Tmux.md",
-    "Repos/T/Tmux sensible.md",
-    "Repos/T/tmux plugins.md",
-    "Repos/T/Tmux Plugin Manager.md",
-    "Repos/Z/zoxide.md",
     "Repos/0",
     "2024/03-March",
     "2024",
