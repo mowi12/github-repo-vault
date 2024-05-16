@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc12f97a72f1afb",
+        "id": "aa047771c6051ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "e1071bd19c430fd9",
+            "id": "eadad68cdba4bc2c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e1071bd19c430fd9",
+  "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/S/superfile.md",
     "Repos/T/tinyworldmap.md",
     "Repos/C/cmdk.md",
     "Repos/R/rx.md",
@@ -197,7 +198,6 @@
     "Repos/H/hauditor.md",
     "Repos/C/cloc.md",
     "Repos/Z/zx.md",
-    "Repos/D/drawDB.md",
     "Repos/0",
     "2024/03-March",
     "2024",
