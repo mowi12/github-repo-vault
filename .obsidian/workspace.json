@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa047771c6051ca2",
+        "id": "1b5d39f9c1083859",
         "type": "tabs",
         "children": [
           {
-            "id": "eadad68cdba4bc2c",
+            "id": "1687e1fb7de1f16c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,6 +172,8 @@
   },
   "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/G/Glance.md",
+    "Repos/B/Better SSE.md",
     "Repos/S/superfile.md",
     "Repos/T/tinyworldmap.md",
     "Repos/C/cmdk.md",
@@ -196,8 +198,6 @@
     "Repos/O/One-Liners.md",
     "Repos/P/pylyzer.md",
     "Repos/H/hauditor.md",
-    "Repos/C/cloc.md",
-    "Repos/Z/zx.md",
     "Repos/0",
     "2024/03-March",
     "2024",
