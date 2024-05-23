@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5d39f9c1083859",
+        "id": "2b1b171c5dc45e43",
         "type": "tabs",
         "children": [
           {
-            "id": "1687e1fb7de1f16c",
+            "id": "58f123e60003821a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,6 +172,10 @@
   },
   "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/D/DeskPad.md",
+    "Repos/C/CSS Compatibility VScode.md",
+    "Repos/I/importx.md",
+    "Repos/B/Bend.md",
     "Repos/G/Glance.md",
     "Repos/B/Better SSE.md",
     "Repos/S/superfile.md",
@@ -194,10 +198,6 @@
     "Repos/D/DNSViz.md",
     "Repos/P/Prism-Theme.md",
     "Repos/C/CVENotifier.md",
-    "Repos/A/awesome-secure-defaults.md",
-    "Repos/O/One-Liners.md",
-    "Repos/P/pylyzer.md",
-    "Repos/H/hauditor.md",
     "Repos/0",
     "2024/03-March",
     "2024",
