@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1b171c5dc45e43",
+        "id": "62aa3f1d72b4d25d",
         "type": "tabs",
         "children": [
           {
-            "id": "58f123e60003821a",
+            "id": "7d3b582cc224afda",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "118f95cfed491eda",
+  "active": "7d3b582cc224afda",
   "lastOpenFiles": [
+    "Repos/N/Namviek.md",
+    "Repos/M/matcha.css.md",
+    "Repos/M/Magic UI.md",
     "Repos/D/DeskPad.md",
     "Repos/C/CSS Compatibility VScode.md",
     "Repos/I/importx.md",
@@ -195,9 +198,6 @@
     "Repos/Z/zellij.md",
     "Github Repo Collection.md",
     "Repos/A/Awesome Low-Level Design.md",
-    "Repos/D/DNSViz.md",
-    "Repos/P/Prism-Theme.md",
-    "Repos/C/CVENotifier.md",
     "Repos/0",
     "2024/03-March",
     "2024",
