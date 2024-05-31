@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62aa3f1d72b4d25d",
+        "id": "5a28daffbd74d8fc",
         "type": "tabs",
         "children": [
           {
-            "id": "7d3b582cc224afda",
+            "id": "40699554041502d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7d3b582cc224afda",
+  "active": "40699554041502d8",
   "lastOpenFiles": [
+    "Repos/G/gh-dash.md",
+    "Repos/T/TerminalTextEffects.md",
+    "Repos/A/Ark UI.md",
+    "Repos/S/sig.md",
     "Repos/N/Namviek.md",
     "Repos/M/matcha.css.md",
     "Repos/M/Magic UI.md",
@@ -194,10 +198,6 @@
     "Repos/C/Canvas Confetti.md",
     "Repos/P/Pragmatic Drag & Drop.md",
     "Repos/L/LES.md",
-    "Repos/A/Airbnb JavaScript Style Guide.md",
-    "Repos/Z/zellij.md",
-    "Github Repo Collection.md",
-    "Repos/A/Awesome Low-Level Design.md",
     "Repos/0",
     "2024/03-March",
     "2024",
