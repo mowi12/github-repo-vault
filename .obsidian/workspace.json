@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a28daffbd74d8fc",
+        "id": "9b26fea79ec132d1",
         "type": "tabs",
         "children": [
           {
-            "id": "40699554041502d8",
+            "id": "57efb6e48eecac83",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "40699554041502d8",
+  "active": "57efb6e48eecac83",
   "lastOpenFiles": [
+    "Repos/M/mitosis.md",
+    "Repos/S/SVG Gobbler.md",
     "Repos/G/gh-dash.md",
     "Repos/T/TerminalTextEffects.md",
     "Repos/A/Ark UI.md",
@@ -196,8 +198,6 @@
     "Repos/E/Extension.js.md",
     "Repos/N/Netprobe Lite.md",
     "Repos/C/Canvas Confetti.md",
-    "Repos/P/Pragmatic Drag & Drop.md",
-    "Repos/L/LES.md",
     "Repos/0",
     "2024/03-March",
     "2024",
