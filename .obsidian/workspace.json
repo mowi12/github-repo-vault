@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b26fea79ec132d1",
+        "id": "84745410bb5033e4",
         "type": "tabs",
         "children": [
           {
-            "id": "57efb6e48eecac83",
+            "id": "d88bc94cc78c38fc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "57efb6e48eecac83",
+  "active": "d88bc94cc78c38fc",
   "lastOpenFiles": [
+    "Repos/B/BlockNote.md",
+    "Repos/A/Awesome CICD Attacks.md",
+    "Repos/H/ht.md",
     "Repos/M/mitosis.md",
     "Repos/S/SVG Gobbler.md",
     "Repos/G/gh-dash.md",
@@ -195,9 +198,6 @@
     "Repos/T/text-box-trim-examples.md",
     "Repos/B/Baileys.md",
     "Repos/S/Stirling-PDF.md",
-    "Repos/E/Extension.js.md",
-    "Repos/N/Netprobe Lite.md",
-    "Repos/C/Canvas Confetti.md",
     "Repos/0",
     "2024/03-March",
     "2024",
