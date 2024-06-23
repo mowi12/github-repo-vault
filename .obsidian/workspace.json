@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0652c63213461f4b",
+        "id": "2c84d8501e1286ad",
         "type": "tabs",
         "children": [
           {
-            "id": "94f3d13e90c78729",
+            "id": "a81cec01eba6e6ab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "94f3d13e90c78729",
+  "active": "a81cec01eba6e6ab",
   "lastOpenFiles": [
+    "Repos/S/Sn1per.md",
     "Repos/J/jdvrif.md",
     "Repos/T/tsx.md",
     "Repos/O/Omnivore.md",
@@ -197,7 +198,6 @@
     "Repos/C/CSS Compatibility VScode.md",
     "Repos/I/importx.md",
     "Repos/B/Bend.md",
-    "Repos/G/Glance.md",
     "Repos/0",
     "2024/03-March",
     "2024",
