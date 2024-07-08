@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f6ff6a86b7c8059",
+        "id": "1fc3de2257950920",
         "type": "tabs",
         "children": [
           {
-            "id": "a71dd196ae780f94",
+            "id": "e5ec00189d83913f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,6 +172,8 @@
   },
   "active": "118f95cfed491eda",
   "lastOpenFiles": [
+    "Repos/D/dnstwist.md",
+    "Repos/0/0xtools.md",
     "Repos/J/json.bash.md",
     "Repos/D/doggo.md",
     "Repos/D/dotenvx.md",
@@ -196,8 +198,6 @@
     "Repos/A/Ark UI.md",
     "Repos/S/sig.md",
     "Repos/N/Namviek.md",
-    "Repos/M/matcha.css.md",
-    "Repos/M/Magic UI.md",
     "Repos/0",
     "2024/03-March",
     "2024",
