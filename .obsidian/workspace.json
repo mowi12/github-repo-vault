@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc3de2257950920",
+        "id": "0b51bb2acd659fdc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ec00189d83913f",
+            "id": "5a32716666009125",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "118f95cfed491eda",
+  "active": "5a32716666009125",
   "lastOpenFiles": [
+    "Repos/T/tinybase.md",
+    "Repos/P/Posting.md",
+    "Repos/S/SQL Studio.md",
     "Repos/D/dnstwist.md",
     "Repos/0/0xtools.md",
     "Repos/J/json.bash.md",
@@ -195,9 +198,6 @@
     "Repos/S/SVG Gobbler.md",
     "Repos/G/gh-dash.md",
     "Repos/T/TerminalTextEffects.md",
-    "Repos/A/Ark UI.md",
-    "Repos/S/sig.md",
-    "Repos/N/Namviek.md",
     "Repos/0",
     "2024/03-March",
     "2024",
