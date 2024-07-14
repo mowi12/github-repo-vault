@@ -22,7 +22,7 @@ dv.paragraph("Total Stars: " + count)
 //const pages = dv.pages('"Github Repo Collection/Repos"')
 let pages = dv.pages('#repo and -"Templates"')
 	.filter(p => { // name filtering
-		//return true // comment out to filter
+		return true // comment out to filter
 		
 		if (p.name.toLowerCase().startsWith("a", 1)) {
 			return true
@@ -43,10 +43,10 @@ let pages = dv.pages('#repo and -"Templates"')
 		}
 	})
 	.filter(p => { // tag filtering
-		return true // comment out to filter
+		//return true // comment out to filter
 		
 		for (const tag of p.tags) {
-			if (tag.toLowerCase() === "map") {
+			if (tag.toLowerCase() === "markdown") {
 				return true
 			}
 		}
