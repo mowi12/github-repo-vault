@@ -30,7 +30,8 @@
     "iconInTitlePosition": "above",
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "Personal/Sophie/Geschenke.md": "LiGift",
   "Personal/Sophie/Filmliste.md": "LiVideo",
