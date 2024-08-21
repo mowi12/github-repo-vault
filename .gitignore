@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos
+# Created by https://www.toptal.com/developers/gitignore/api/obsidian,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=obsidian,macos
 
 ### macOS ###
 # General
@@ -34,5 +34,9 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-# End of https://www.toptal.com/developers/gitignore/api/macos
+### Obsidian ###
+# config dir
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
+# End of https://www.toptal.com/developers/gitignore/api/obsidian,macos
