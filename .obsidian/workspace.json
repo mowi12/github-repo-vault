@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50086a298d66f65f",
+        "id": "ac08954a79bccfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "f24b79fee9b5c09d",
+            "id": "e5234201db3ba985",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f24b79fee9b5c09d",
+  "active": "e5234201db3ba985",
   "lastOpenFiles": [
+    "Repos/K/ky.md",
+    "Repos/S/semantic-grep.md",
     "Repos/W/why-is-node-running.md",
     "Repos/P/Papermark.md",
     "Github Repo Collection.md",
@@ -196,8 +198,6 @@
     "Repos/J/JsonTree.js.md",
     "Repos/T/Toolong.md",
     "Repos/S/shpool.md",
-    "Repos/F/flameshot.md",
-    "Repos/B/BlockNote.md",
     "Repos/0",
     "2024/03-March",
     "2024",
