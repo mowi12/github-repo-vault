@@ -1,7 +1,7 @@
 {
   "accentColor": "#ff7580",
   "cssTheme": "Tokyo Night",
-  "theme": "system",
+  "theme": "obsidian",
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian"
