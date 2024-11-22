@@ -43,19 +43,19 @@ let pages = dv.pages('#repo and -"Templates"')
 		}
 	})
 	.filter(p => { // tag filtering
-		//return true // comment out to filter
+		return true // comment out to filter
 		
 		for (const tag of p.tags) {
-			if (tag.toLowerCase() === "resume") {
+			if (tag.toLowerCase() === "static") {
 				return true
 			}
 		}
 	})
 	.filter(p => { // precise tag filtering
-		return true // comment out to filter
+		//return true // comment out to filter
 		
 		for (const tag of p.tags) {
-			if (tag.toLowerCase().includes("gui")) {
+			if (tag.toLowerCase().includes("static")) {
 				return true
 			}
 		}
