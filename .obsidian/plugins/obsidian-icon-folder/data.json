@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFile3Fill",
+      "RiGitRepositoryFill",
       "SiGithub",
       "TiPresentation",
-      "SiBookmeter",
-      "FasListCheck",
-      "TiPhoto"
+      "SiBookmeter"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,8 +22,8 @@
     },
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":",
     "iconsInLinksEnabled": true,
@@ -76,12 +76,13 @@
   "Geocaching Notes": "SiGeocaching",
   "Sport": "TiBarbell",
   "Personal/Daily Notes": "TiNotebook",
-  "Templates": "TiTemplate",
-  "Attachments": "TiPhoto",
   "Personal/Other/Wohnung Ulm.md": "RiHome4Line",
   "Personal/Other/Tic Tac Toe Apps.md": "TiChartGridDots",
   "Personal/Medi-Website.md": "IbMedical",
   "Personal/Habits/Tracker.md": "SiBookmeter",
   "Uni/Module/Physik/Physik Praktikum Vortrag.md": "TiPresentation",
-  "Github Repo Collection.md": "SiGithub"
+  "02 - Attachments": "RiFile3Fill",
+  "03 - Templates": "TiTemplate",
+  "Github Repo Collection.md": "SiGithub",
+  "01 - Repos": "RiGitRepositoryFill"
 }

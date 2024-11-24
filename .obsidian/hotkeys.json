@@ -16,23 +16,5 @@
       ],
       "key": "K"
     }
-  ],
-  "persistent-graph:save-node-positions": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
-  "editor:open-search": [],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F"
-    }
   ]
 }

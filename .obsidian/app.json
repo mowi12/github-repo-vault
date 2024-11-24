@@ -4,8 +4,8 @@
   "showUnsupportedFiles": true,
   "showLineNumber": true,
   "readableLineLength": false,
-  "livePreview": false,
-  "defaultViewMode": "preview",
+  "livePreview": true,
+  "defaultViewMode": "source",
   "rightToLeft": false,
   "vimMode": false,
   "attachmentFolderPath": "Attachments",
@@ -15,5 +15,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "newFileLocation": "current"
 }

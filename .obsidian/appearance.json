@@ -1,11 +1,14 @@
 {
-  "accentColor": "#ff7580",
-  "cssTheme": "Tokyo Night",
-  "theme": "obsidian",
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "theme": "system",
   "translucency": false,
   "enabledCssSnippets": [
-    "obsidian"
+    "obsidian",
+    "Appearance",
+    "Colored Sidebar Items"
   ],
-  "interfaceFontFamily": "",
-  "monospaceFontFamily": "Fira Code"
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "MesloLGM Nerd Font Mono",
+  "textFontFamily": "Fira Code"
 }
