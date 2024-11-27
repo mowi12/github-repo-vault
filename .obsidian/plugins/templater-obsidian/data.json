@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "03 - Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,15 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Repos",
-      "template": "Templates/Repo Template.md"
+      "folder": "01 - Repos",
+      "template": "03 - Templates/Repo Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
