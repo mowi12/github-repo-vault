@@ -55,7 +55,7 @@ let pages = dv.pages('#repo and -"Templates"')
 		//return true // comment out to filter
 		
 		for (const tag of p.tags) {
-			if (tag.toLowerCase().includes("static")) {
+			if (tag.toLowerCase().includes("bracket")) {
 				return true
 			}
 		}
